@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# Pastas privadas (não enviar para o GitHub)
+assets/
+manage/
+.aistudio/
