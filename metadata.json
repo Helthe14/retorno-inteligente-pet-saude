@@ -1,0 +1,6 @@
+{
+  "name": "Retorno Inteligente - PET SAÚDE DIGITAL",
+  "description": "Sistema moderno e responsivo focado em reduzir faltas em consultas médicas através de integração com Google Calendar, iCalendar e geração automática de QR Code para pacientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
